@@ -1,0 +1,13 @@
+{
+  "name": "pm-insight-prd",
+  "version": "2.1.0",
+  "description": "Product Insight & PRD: user and market research plus structured product requirements documentation.",
+  "keywords": [
+    "product-management",
+    "product-research",
+    "market-research",
+    "prd",
+    "requirements"
+  ],
+  "license": "MIT"
+}

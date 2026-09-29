@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pm-insight-prd",
+  "version": "2.1.0",
+  "description": "Product Insight & PRD includes 9 domain-specific skills and 4 chained workflows across 1 PM plugin for product research and PRD writing.",
+  "owner": {
+    "name": "Product Insight & PRD"
+  },
+  "plugins": [
+    {
+      "name": "pm-insight-prd",
+      "description": "Research users, markets, customer journeys, sentiment, and competitors; turn evidence into structured PRDs.",
+      "source": "./pm-insight-prd",
+      "category": "product-management"
+    }
+  ]
+}
