@@ -1,5 +1,8 @@
 # 产品洞察与 PRD
 
+<img width="2818" height="1154" alt="screenshot-20260929-155429" src="https://github.com/user-attachments/assets/187d9f97-7b43-462b-ae00-d1bb8d4ed0d2" />
+
+
 **Product Insight & PRD** · `pm-insight-prd`
 
 GitHub 仓库与下载地址：[github.com/SummerDogg/pm-insight-prd](https://github.com/SummerDogg/pm-insight-prd)
